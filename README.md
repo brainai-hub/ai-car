@@ -1,8 +1,3 @@
-# ai-message
-
-https://youtu.be/sxtC40gUS2A
-
-
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
