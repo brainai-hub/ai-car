@@ -2,7 +2,7 @@
 
 
 <object width="625" height="800">
-  <embed src="http://[url](https://youtu.be/sxtC40gUS2A)"
+  <embed src="http://youtu.be/sxtC40gUS2A"
          type="application/x-shockwave-flash"
          wmode="transparent" width="625" height="800" />
 </object>
