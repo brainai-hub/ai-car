@@ -17,3 +17,6 @@
   <img src="https://user-images.githubusercontent.com/73767162/225787236-a88c859c-712e-410f-b758-d92fe38c6082.png" width="250" height="200">
   <img src="https://user-images.githubusercontent.com/73767162/225787144-54a49696-d4a0-452b-bdf1-1b51a64ae544.png" width="250" height="250">
 </p>
+
+#### 4. 조립 영상입니다. 위, 1, 2, 3번을 기억하면서 영상을 참고하여 자동차를 완성합니다. 
+https://vimeo.com/735346090
