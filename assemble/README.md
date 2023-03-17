@@ -7,10 +7,6 @@
   <img src="https://user-images.githubusercontent.com/73767162/225786898-3dec0581-c250-4edb-be26-7ed2cc58f874.png" align="center" width="250" height="200">
   <figcaption align="center">3개 이미지 띄우기</figcaption>
 </p>
-  <img src="https://user-images.githubusercontent.com/73767162/225786839-9ecd3e3d-2e80-4803-93da-997ab706aa07.png" width="250" height="200"/>
-  <img src="https://user-images.githubusercontent.com/73767162/225786620-927010e9-11d9-4429-ab00-52b54be7a292.png" width="250" height="200"/>
-  <img src="https://user-images.githubusercontent.com/73767162/225786898-3dec0581-c250-4edb-be26-7ed2cc58f874.png" width="250" height="200"/>
-
 
 2. Servo 모터 연결시 와이어 색과 연결될 핀의 색을 확인하고 연결합니다. <br>
 ![image](https://user-images.githubusercontent.com/73767162/225787395-6e29f043-6a90-41a4-b852-cadbe7fff945.png)
