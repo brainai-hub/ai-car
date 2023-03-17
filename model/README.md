@@ -1,5 +1,5 @@
 ## CNN 모델 이해
-* 기본 분류: 의류 이미지 분류 텐서플로(TensorFlow) 패션 MNIST 데이터셋
+* 기본 분류: 의류 이미지 분류 텐서플로(TensorFlow) 패션 MNIST 데이터셋 <br>
  https://www.tensorflow.org/tutorials/keras/classification?hl=ko
 
 ## Intel OpenVINO Pre-trained 모델 활용
