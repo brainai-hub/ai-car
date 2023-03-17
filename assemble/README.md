@@ -8,8 +8,9 @@
 </p>
 
 2. Servo 모터 연결시 와이어 색과 연결될 핀의 색을 확인하고 연결합니다. <br>
-  <img src="https://user-images.githubusercontent.com/73767162/225787395-6e29f043-6a90-41a4-b852-cadbe7fff945.png" width="250" height="200">
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73767162/225787395-6e29f043-6a90-41a4-b852-cadbe7fff945.png" width="200" height="200">
+</p>
 
 2. 마이크로비트 연결 방향을 확인하고 마이크로비트 확장보드에 삽입합니다. <br>
 <p align="center">
