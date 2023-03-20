@@ -7,4 +7,4 @@ https://makecode.microbit.org/_WcdKWCV6MFWy
 https://makecode.microbit.org/_27U8btgw9VoF
 
 3. 자율주행자동차 본체를 컨트롤 하는 마이크로비트 소스 코드<br>
-https://makecode.microbit.org/_f29bkxCACV7M
+https://makecode.microbit.org/_iuKULy4TE3ev
