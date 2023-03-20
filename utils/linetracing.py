@@ -16,7 +16,7 @@ def LineTracing(threshold, sens, cropFrame, frame, tic, width, height, y1, ser):
                             cv2.CHAIN_APPROX_SIMPLE)[-2]
     
     if len(cnts) > 0:
-    
+        
         c = max(cnts, key=cv2.contourArea)
         M = cv2.moments(c)
 
