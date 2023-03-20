@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 import time
+
 # 검정색 도로 라인 따라 주행하기
 def LineTracing(threshold, sens, cropFrame, frame, tic, width, height, y1, ser):
     
