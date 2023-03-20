@@ -1,34 +1,6 @@
 import cv2
 import numpy as np
 import time
-
-# 빨간색 배경의 횡단보도 찾기
-def RedDetection(cropFrame, y1):
-
-    box = None
-    frameArea = cropFrame.shape[0] * cropFrame.shape[1]
-    
-    hsv = cv2.cvtColor(cropFrame, cv2.COLOR_BGR2HSV)
-    mask1 = cv2.inRange(hsv, (0, 50, 50), (10, 255,255))
-    mask2 = cv2.inRange(hsv, (170, 50, 50), (179, 255,255))
-    mask = mask1 + mask2
-    
-    cnts = cv2.findContours(mask.copy(), cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)[-2]
-
-    if len(cnts) > 0:
-        
-        c = max(cnts, key = cv2.contourArea) 
-        area = cv2.contourArea(c)  
-
-        if area > frameArea * 0.05:
-            
-            box = cv2.minAreaRect(c)  
-            box = cv2.boxPoints(box)
-            box = np.int0(box)
-            box = box + [0, y1]
-            
-    return box
-
 # 검정색 도로 라인 따라 주행하기
 def LineTracing(threshold, sens, cropFrame, frame, tic, width, height, y1, ser):
     
@@ -80,3 +52,29 @@ def LineTracing(threshold, sens, cropFrame, frame, tic, width, height, y1, ser):
   
     return tic, text, turn, thresh
 
+# 빨간색 배경의 횡단보도 찾기
+def RedDetection(cropFrame, y1):
+
+    box = None
+    frameArea = cropFrame.shape[0] * cropFrame.shape[1]
+    
+    hsv = cv2.cvtColor(cropFrame, cv2.COLOR_BGR2HSV)
+    mask1 = cv2.inRange(hsv, (0, 50, 50), (10, 255,255))
+    mask2 = cv2.inRange(hsv, (170, 50, 50), (179, 255,255))
+    mask = mask1 + mask2
+    
+    cnts = cv2.findContours(mask.copy(), cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)[-2]
+
+    if len(cnts) > 0:
+        
+        c = max(cnts, key = cv2.contourArea) 
+        area = cv2.contourArea(c)  
+
+        if area > frameArea * 0.05:
+            
+            box = cv2.minAreaRect(c)  
+            box = cv2.boxPoints(box)
+            box = np.int0(box)
+            box = box + [0, y1]
+            
+    return box
