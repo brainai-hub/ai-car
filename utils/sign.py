@@ -29,6 +29,7 @@ def FindTrafficSign(frame):
 
     return cropped, box
 
+#교통 신호 판단하기
 def ReadTrafficSign(cropped, model, labels):
 
     input_width = 48
