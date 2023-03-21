@@ -1,5 +1,8 @@
 ## Brain AI Car Project
 
+## 도로 위 모두의 안전을 생각하며
+https://www.youtube.com/watch?v=PJQPJgTbnRY
+
 ### Python과 OpenCV, CNN 알고리즘을 활용한 자율주행자동차 프로젝트 개발 실습하기
 
 
