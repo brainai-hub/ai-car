@@ -7,11 +7,11 @@ https://youtu.be/64X8TSaNcBM
 https://www.youtube.com/watch?v=PJQPJgTbnRY
 
 ## 유엔 지속가능발전목표(UNB SDGs)와 연계한 AI Project 개발
-Sustainable Development Goals https://www.youtube.com/watch?v=0XTBYMfZyrM
-THE 17 GOALS | Sustainable Develpment https://sdgs.un.org/goals
-SDG wedding cake https://www.youtube.com/watch?v=dcvz6Fv8DqU Systems Thinking
-Cats in Boreneo https://www.youtube.com/watch?v=17BP9n6g1F0
-A tool for thinking in systems https://ncase.me/loopy/
+- Sustainable Development Goals https://www.youtube.com/watch?v=0XTBYMfZyrM
+- THE 17 GOALS | Sustainable Develpment https://sdgs.un.org/goals
+- SDG wedding cake https://www.youtube.com/watch?v=dcvz6Fv8DqU Systems Thinking
+- Cats in Boreneo https://www.youtube.com/watch?v=17BP9n6g1F0
+- A tool for thinking in systems https://ncase.me/loopy/
 
 ## Brain AI Car Project
 AI Project Cycle 이해 <br>
