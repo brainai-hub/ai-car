@@ -34,5 +34,5 @@ https://user-images.githubusercontent.com/73767162/222398059-ea27af5b-5e72-47b5-
 
 ## 프로젝트 개발 실습을 위한 디렉토리 구조입니다.
 <p alight=center">
-<img src ="https://user-images.githubusercontent.com/73767162/227107267-1f089178-f66c-4d20-9589-706520f9c4a4.png" width ="100%" height = "100%>
+<img src ="https://user-images.githubusercontent.com/73767162/227107267-1f089178-f66c-4d20-9589-706520f9c4a4.png" width ="100%" height = "100%">
 </p>
