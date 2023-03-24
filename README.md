@@ -7,7 +7,7 @@ https://youtu.be/64X8TSaNcBM
 https://www.youtube.com/watch?v=PJQPJgTbnRY
 
 ## 유엔 지속가능발전목표(UNB SDGs)와 연계한 AI Project 개발
-- http://ncsd.go.kr/unsdgs?content=2
+- UN 지속가능발전목표 17개 목표와 현황 http://ncsd.go.kr/unsdgs?content=2
 - Sustainable Development Goals https://www.youtube.com/watch?v=0XTBYMfZyrM
 - THE 17 GOALS | Sustainable Develpment https://sdgs.un.org/goals
 - SDG wedding cake https://www.youtube.com/watch?v=dcvz6Fv8DqU Systems Thinking
