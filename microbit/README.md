@@ -14,4 +14,4 @@ https://makecode.microbit.org/_iuKULy4TE3ev
 #### Microbit Rest
 https://microbit.org/get-started/user-guide/firmware/
 
-https://tech.microbit.org/software/daplink-interface/#daplink-software
+https://support.microbit.org/support/solutions/articles/19000016969-micro-bit-error-codes
