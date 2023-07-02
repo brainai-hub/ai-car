@@ -56,8 +56,6 @@ https://user-images.githubusercontent.com/73767162/222398059-ea27af5b-5e72-47b5-
 https://vimeo.com/735346090
 
 
-
-
 ## 프로젝트 개발 실습을 위한 디렉토리 구조입니다.
 
 <p align="center">
