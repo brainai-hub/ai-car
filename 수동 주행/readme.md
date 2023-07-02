@@ -1,7 +1,7 @@
 자율주행자동차를 수동으로 주행할 때 필요한 마이크로비트 코드입니다. 
 
 1. 자율주행자동차 차체에서 명령을 수행하는 마이크로비트 코드입니다. <br>
-  [자율주행자동차-차체 마이크로비트 코드 링크](https://makecode.microbit.org/_8K8Uk71dh18s)
+  [코드 공유 링크](https://makecode.microbit.org/_8K8Uk71dh18s)
 
 2. 노트북 PC USB에 연결되어 파이썬으로부터 명령을 받아 <br>자율주행차 차체에 있는 마이크로비트에 명령을 보내는 마이크로비트 코드입니다. <br>
-  [자율주행자동차-시리얼통신 마이크로비트 코드 링크](https://makecode.microbit.org/_8K8Uk71dh18s)
+  [코드 공유 링크](https://makecode.microbit.org/_8K8Uk71dh18s)
