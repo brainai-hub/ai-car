@@ -54,10 +54,3 @@ https://user-images.githubusercontent.com/73767162/222398059-ea27af5b-5e72-47b5-
 
 #### 4. 조립 영상입니다. 위, 1, 2, 3번을 기억하면서 영상을 참고하여 자동차를 완성합니다. 
 https://vimeo.com/735346090
-
-
-## 프로젝트 개발 실습을 위한 디렉토리 구조입니다.
-
-<p align="center">
-<img src ="https://user-images.githubusercontent.com/73767162/227108622-7d359a82-2763-4329-91d3-4c6713d98123.png" width ="50%" height = "50%">
-</p>
