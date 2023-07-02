@@ -1,4 +1,0 @@
-forward
-left
-noSign
-stop
