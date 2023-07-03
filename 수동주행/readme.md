@@ -4,5 +4,5 @@
 - [코드 공유 링크](https://makecode.microbit.org/_ep15e8FHc2bs)
 
 #### 2. 노트북 PC USB에 연결되어 파이썬으로부터 명령을 받아 <br>자율주행자동차 차체에 있는 마이크로비트에 명령을 보내는 마이크로비트 코드입니다. <br>
-- [코드 공유 링크](https://makecode.microbit.org/_8K8Uk71dh18s)
+- [코드 공유 링크](https://makecode.microbit.org/_32wgj9fA46Ts)
 
